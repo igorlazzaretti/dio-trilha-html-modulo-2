@@ -1,4 +1,7 @@
 # Trilha HTML - Dio.me
+![Capture](https://github.com/igorlazzaretti/dio-trilha-html-modulo-2/assets/134664486/09d7e0c5-fd75-4857-b589-fa384e1313bf)
+
+
 ## Módulo 02 - HTML I - Conceitos Básicos
 
 Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo. Os temas que deverão ser abordados são:
